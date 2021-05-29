@@ -1,3 +1,4 @@
 rootProject.name='CustomLintChecksDoNotWork'
 include ':app'
 include ':custom_lint_checks'
+include ':lint_publisher'
